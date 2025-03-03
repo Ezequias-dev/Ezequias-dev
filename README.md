@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-💻 Apaixonado por tecnologia e sempre em busca de conhecimento!.
+💻 Estudante de desenvolvimento frontend. Sempre buscando aprimorar minhas habilidades e criar soluções inovadoras. 🚀
 
 ### Tecnologias que uso
 
