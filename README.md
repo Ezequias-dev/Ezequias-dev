@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Ezequias Souza 🖐️
 
+![Ezequias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezequias-dev&hide=contribs,prs)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
